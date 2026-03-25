@@ -35,7 +35,8 @@ public class ProductController {
         return List.of(
                 new Product(1, "Test Product 1", 10, 1000.0),
                 new Product(2, "Test Product 2", 20, 2000.0),
-                new Product(3, "Test Product 3", 30, 3000.0)
+                new Product(3, "Test Product 3", 30, 3000.0),
+                new Product(3, "Test Product 4", 40, 4000.0)
         );
     }
 
